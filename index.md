@@ -1,4 +1,4 @@
-## Carlos Sanchez ![Toon Carlos](img/Toon-Carlos.png)
+## Carlos Sanchez ![Toon Carlos](img/Toon_Carlos_sml.png)
 
 ### EXPERIENCE
 ## Zippy Laptops, Oceanside CA — Computer Tech

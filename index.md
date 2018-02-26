@@ -1,4 +1,4 @@
-![Toon Carlos](img/Toon_Carlos_med.png)
+![Toon Carlos](img/Carloz_Medium_Header_720x400.png)
 #             Carlos Sanchez 
 
 ### EXPERIENCE

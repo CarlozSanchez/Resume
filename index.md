@@ -1,5 +1,5 @@
-![Toon Carlos](img/Carloz_Medium_Header_720x400.png)
-#             Carlos Sanchez 
+<p align = "center"> <img src = "https://github.com/CarlozSanchez/resume/blob/master/img/Toon_Carlos_med.png?raw=true"></p>
+<header><h1 align = "center"> Carlos Sanchez </h1></header>
 
 ### EXPERIENCE
 ## Zippy Laptops, Oceanside CA — Computer Tech

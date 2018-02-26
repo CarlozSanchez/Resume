@@ -1,3 +1,26 @@
+## Carlos Sanchez
+
+### EXPERIENCE
+## Zippy Laptops, Oceanside CA — Computer Tech
+June 2016 - December 2016
+Customer service and Computer repair for local computer shop, duties
+involved Laptop troubleshooting, repairs, cleaning, installing/removing
+hardware/software along with managing service desk.
+
+## Tolt Service Group, Torrance CA — Field Technician
+June 2004 - August 2014
+Troubleshoot and Repaired electronic equipment (Desktop PC, POS,
+printers, servers) for various retail stores. Also did installation/cabling
+of network equipment(routers, switches, modems). Managed my own
+inventory and ordered required parts for service tickets. This required
+driving to local or remote locations where I did repairs on site.
+
+### EDUCATION
+## Mira Costa College, Oceanside CA — A.A. Computer Science
+January 2016 - Current
+Currently working on a new Degree in Computer Science
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/CarlozSanchez/resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.

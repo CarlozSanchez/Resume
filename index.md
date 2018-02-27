@@ -20,3 +20,19 @@ driving to local or remote locations where I did repairs on site.
 ## Mira Costa College, Oceanside CA — A.A. Computer Science
 January 2016 - Current
 Currently working on a new Degree in Computer Science
+
+### SKILLS
+Great with computers, very comfortable working on new equipment.
+Trouble shooter, a lot of my jobs required me to identify a problem and find a solution.
+Customer First, I learned early on that getting a ustomer in and out satisfied is important 
+for any business.
+Good trainer, in my jobs I was always asked to train new employees.
+
+### AWARDS
+High School Diploma
+Graduated from highschool with honors.
+Lexmark Certified - Completed lexmark printerservice / repair course through work training.
+HIPPA Certified - Completed Privacy and Accountability course through work training.
+
+### LANGUAGES
+English, Spanish, Java, C##

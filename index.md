@@ -4,7 +4,8 @@
 ##### EXPERIENCE
 
 
-## Zippy Laptops — Computer Tech ![laptop](img/PC_BlueScreen_sml.png)
+## Zippy Laptops —  ![laptop](img/PC_BlueScreen_sml.png)
+Computer Tech
 
 Oceanside CA
 June 2016 - December 2016 

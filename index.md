@@ -7,16 +7,17 @@
   <h3 align = "left"> Zippy Laptops, Oceanside CA — Computer Tech</h3>
 </header>
 
-<div>
   <p align = "left">
     June 2016 - December 2016
+    </p>
+  
+    <p align = "right"><img src = "https://github.com/CarlozSanchez/resume/blob/master/img/PC_BlueScreen_sml.png?raw=true"></p>
+  <p>
 Customer service and Computer repair for local computer shop, duties
 involved Laptop troubleshooting, repairs, cleaning, installing/removing
 hardware/software along with managing service desk.
   </p>
-  
-  <p align = "right"><img src = "https://github.com/CarlozSanchez/resume/blob/master/img/PC_BlueScreen_sml.png?raw=true"></p>
-</div>
+
 
 
 <header><h4>Tolt Service Group, Torrance CA — Field Technician</h4></header>

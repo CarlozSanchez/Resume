@@ -10,7 +10,7 @@ Customer service and Computer repair for local computer shop, duties
 involved Laptop troubleshooting, repairs, cleaning, installing/removing
 hardware/software along with managing service desk.
 
-##Tolt Service Group, Torrance CA — Field Technician ![vanride](img/Van_Ride.png)
+## Tolt Service Group, Torrance CA — Field Technician ![vanride](img/Van_Ride.png)
 June 2004 - August 2014
 Troubleshoot and Repaired electronic equipment (Desktop PC, POS,
 printers, servers) for various retail stores. Also did installation/cabling

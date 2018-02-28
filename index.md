@@ -1,4 +1,4 @@
-<p align = "center"> <img src = "https://github.com/CarlozSanchez/resume/blob/master/img/Toon_Carlos_med.png?raw=true"></p>
+<!-- <p align = "center"> <img src = "https://github.com/CarlozSanchez/resume/blob/master/img/Toon_Carlos_med.png?raw=true"></p> ->
 
 
 		<div id="flashContent">

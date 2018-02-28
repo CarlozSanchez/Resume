@@ -3,7 +3,7 @@
 
 ### EXPERIENCE
 
-##  <h2 align = "left"> Zippy Laptops, Oceanside CA — Computer Tech</h2>
+##  Zippy Laptops, Oceanside CA — Computer Tech
 
     June 2016 - December 2016 
     ![laptop](img/PC_BlueScreen_sml.png)

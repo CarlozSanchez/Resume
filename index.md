@@ -13,7 +13,7 @@ Customer service and Computer repair for local computer shop, duties
 involved Laptop troubleshooting, repairs, cleaning, installing/removing
 hardware/software along with managing service desk.
 
-## TOLT Service Group — Field Technician ![vanride](img/Van_Ride.png)
+## TOLT Service Group — Field Tech ![vanride](img/Van_Ride.png)
 
 Torrance CA
 June 2004 - August 2014
@@ -25,7 +25,7 @@ inventory and ordered required parts for service tickets. This required
 driving to local or remote locations where I did repairs on site.
 
 ###### EDUCATION 
-## Mira Costa College — A.A. Computer Science ![Diploma](img/Diploma.png)
+## Mira Costa College — A.A. CompSci ![Diploma](img/Diploma.png)
 
 Oceanside CA
 January 2016 - Current

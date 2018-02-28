@@ -5,9 +5,8 @@
 
 ##  <h2 align = "left"> Zippy Laptops, Oceanside CA — Computer Tech</h2>
 
-    June 2016 - December 2016
-  
-    <p align = "right"><img src = "https://github.com/CarlozSanchez/resume/blob/master/img/PC_BlueScreen_sml.png?raw=true"></p>
+    June 2016 - December 2016 ![laptop][img/PC_blueScreen.png]
+
 Customer service and Computer repair for local computer shop, duties
 involved Laptop troubleshooting, repairs, cleaning, installing/removing
 hardware/software along with managing service desk.

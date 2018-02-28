@@ -2,7 +2,7 @@
 <header><h1 align = "center"> Carlos Sanchez </h1></header>
 
 ### EXPERIENCE
-<p align = "right"><img src = "https://github.com/CarlozSanchez/resume/blob/master/img/PC_BlueScreen_sml.png?raw=true"></p>
+<p align = "center"><img src = "https://github.com/CarlozSanchez/resume/blob/master/img/PC_BlueScreen_sml.png?raw=true"></p>
 <header><h1 align = "left"> Zippy Laptops, Oceanside CA — Computer Tech</h1><header>
 
 June 2016 - December 2016

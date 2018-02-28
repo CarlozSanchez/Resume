@@ -37,4 +37,4 @@ Lexmark Certified - Completed lexmark printerservice / repair course through wor
 HIPPA Certified - Completed Privacy and Accountability course through work training.
 
 <header><h5>LANGUAGES</h5></header>
-English, Spanish, Java, C##
+English, Spanish, Java, C#

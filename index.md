@@ -4,7 +4,7 @@
 ### EXPERIENCE
 
 <header>
-  <h4 align = "left"> Zippy Laptops, Oceanside CA — Computer Tech</h4>
+  <h3 align = "left"> Zippy Laptops, Oceanside CA — Computer Tech</h3>
   <p align = "right"><img src = "https://github.com/CarlozSanchez/resume/blob/master/img/PC_BlueScreen_sml.png?raw=true"></p>
 </header>
 

@@ -20,8 +20,8 @@ of network equipment(routers, switches, modems). Managed my own
 inventory and ordered required parts for service tickets. This required
 driving to local or remote locations where I did repairs on site.
 
-###### EDUCATION ![DIPLOmA](img/Diploma.png)
-## Mira Costa College, Oceanside CA — A.A. Computer Science
+###### EDUCATION 
+## Mira Costa College, Oceanside CA — A.A. Computer Science ![DIPLOmA](img/Diploma.png)
 January 2016 - Current
 Currently working on a new Degree in Computer Science
 

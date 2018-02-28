@@ -30,7 +30,8 @@ A.A. Computer Science
 Oceanside CA
 January 2016 - Current
 
-Currently working on a new Degree in Computer Science
+Currently working on a Degree in Computer Science, along with supplemental math and
+Digital Interactivity.
 
 ### SKILLS
 Great with computers, very comfortable working on new equipment.

@@ -8,6 +8,7 @@
 
 Oceanside CA
 June 2016 - December 2016 
+
 Customer service and Computer repair for local computer shop, duties
 involved Laptop troubleshooting, repairs, cleaning, installing/removing
 hardware/software along with managing service desk.
@@ -16,6 +17,7 @@ hardware/software along with managing service desk.
 
 Torrance CA
 June 2004 - August 2014
+
 Troubleshoot and Repaired electronic equipment (Desktop PC, POS,
 printers, servers) for various retail stores. Also did installation/cabling
 of network equipment(routers, switches, modems). Managed my own
@@ -27,6 +29,7 @@ driving to local or remote locations where I did repairs on site.
 
 Oceanside CA
 January 2016 - Current
+
 Currently working on a new Degree in Computer Science
 
 ### SKILLS

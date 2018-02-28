@@ -2,7 +2,8 @@
 <header><h1 align = "center"> Carlos Sanchez </h1></header>
 
 ### EXPERIENCE
-<header><h1 align = "left"> Zippy Laptops, Oceanside CA — Computer Tech</h1><header> <p align = "right"><img src = "https://github.com/CarlozSanchez/resume/blob/master/img/PC_BlueScreen_sml.png?raw=true"></p>
+<header><h1 align = "left"> Zippy Laptops, Oceanside CA — Computer Tech</h1><header>
+<p align = "right"><img src = "https://github.com/CarlozSanchez/resume/blob/master/img/PC_BlueScreen_sml.png?raw=true"></p>
 June 2016 - December 2016
 Customer service and Computer repair for local computer shop, duties
 involved Laptop troubleshooting, repairs, cleaning, installing/removing

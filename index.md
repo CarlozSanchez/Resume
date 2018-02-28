@@ -4,9 +4,8 @@
 ##### EXPERIENCE
 
 
-## Zippy Laptops —  ![laptop](img/PC_BlueScreen_sml.png)
-Computer Tech
-
+## Zippy Laptops ![laptop](img/PC_BlueScreen_sml.png)
+Computer Technician
 Oceanside CA
 June 2016 - December 2016 
 
@@ -14,8 +13,8 @@ Customer service and Computer repair for local computer shop, duties
 involved Laptop troubleshooting, repairs, cleaning, installing/removing
 hardware/software along with managing service desk.
 
-## TOLT Service Group — Field Tech ![vanride](img/Van_Ride.png)
-
+## TOLT Service Group ![vanride](img/Van_Ride.png)
+Field Technician
 Torrance CA
 June 2004 - August 2014
 
@@ -26,8 +25,8 @@ inventory and ordered required parts for service tickets. This required
 driving to local or remote locations where I did repairs on site.
 
 ###### EDUCATION 
-## Mira Costa College — A.A. CompSci ![Diploma](img/Diploma.png)
-
+## Mira Costa College ![Diploma](img/Diploma.png)
+A.A. Computer Science
 Oceanside CA
 January 2016 - Current
 

@@ -2,7 +2,7 @@
 <header><h1 align = "center"> Carlos Sanchez </h1></header>
 
 ### EXPERIENCE
-## Zippy Laptops, Oceanside CA — Computer Tech
+## Zippy Laptops, Oceanside CA — Computer Tech 
 June 2016 - December 2016
 Customer service and Computer repair for local computer shop, duties
 involved Laptop troubleshooting, repairs, cleaning, installing/removing

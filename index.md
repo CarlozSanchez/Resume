@@ -1,7 +1,5 @@
 <!-- <p align = "center"> <img src = "https://github.com/CarlozSanchez/resume/blob/master/img/Toon_Carlos_med.png?raw=true"></p> ->
 
-
-		<div id="flashContent">
 			<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="320" height="400" id="Smash Icon" align="middle">
 				<param name="movie" value="/flashSmash Icon.swf" />
 				<param name="quality" value="high" />
@@ -35,7 +33,6 @@
 				</object>
 				<!--<![endif]-->
 			</object>
-		</div>
 
 <header><h1 align = "center"> Carlos Sanchez </h1></header>
 

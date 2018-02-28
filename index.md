@@ -1,7 +1,7 @@
 <p align = "center"> <img src = "https://github.com/CarlozSanchez/resume/blob/master/img/Toon_Carlos_med.png?raw=true"></p>
 <header><h1 align = "center"> Carlos Sanchez </h1></header>
 
-#### EXPERIENCE
+##### EXPERIENCE
 
 
 ## Zippy Laptops, Oceanside CA — Computer Tech     ![laptop](img/PC_BlueScreen_sml.png)
@@ -18,8 +18,8 @@ of network equipment(routers, switches, modems). Managed my own
 inventory and ordered required parts for service tickets. This required
 driving to local or remote locations where I did repairs on site.
 
-### EDUCATION
-##Mira Costa College, Oceanside CA — A.A. Computer Science
+###### EDUCATION
+## Mira Costa College, Oceanside CA — A.A. Computer Science
 January 2016 - Current
 Currently working on a new Degree in Computer Science
 

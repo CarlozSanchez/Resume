@@ -3,11 +3,9 @@
 
 ### EXPERIENCE
 
-##  Zippy Laptops, Oceanside CA — Computer Tech
 
-    June 2016 - December 2016 
-    ![laptop](img/PC_BlueScreen_sml.png)
-
+##  Zippy Laptops, Oceanside CA — Computer Tech     ![laptop](img/PC_BlueScreen_sml.png)
+June 2016 - December 2016 
 Customer service and Computer repair for local computer shop, duties
 involved Laptop troubleshooting, repairs, cleaning, installing/removing
 hardware/software along with managing service desk.
